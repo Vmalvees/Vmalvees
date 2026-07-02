@@ -12,7 +12,7 @@
     </a>
   </p>
   
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <hr>
 </div>
 
 ## 👨‍💻 Sobre Mim
@@ -30,12 +30,12 @@ Sou focado em projetar, construir e otimizar pipelines de dados robustos. Atualm
     <td align="center" width="33%">
       <h3>🧠 Programação & Query</h3>
       <img src="https://skillicons.dev/icons?i=python,postgres,sqlite,bash" /><br/>
-      <sub>Python, PostgreSQL, SQLite, Shell Scripting</sub>
+      <sub>Python, PostgreSQL, SQLite, Bash</sub>
     </td>
     <td align="center" width="33%">
       <h3>⚙️ Engenharia de Dados</h3>
       <img src="https://skillicons.dev/icons?i=pandas,airflow,docker,git" /><br/>
-      <sub>Pandas, Airflow, Docker, Git Versioning</sub>
+      <sub>Pandas, Airflow, Docker, Git</sub>
     </td>
     <td align="center" width="33%">
       <h3>☁️ Cloud Computing</h3>
@@ -62,25 +62,20 @@ Sou focado em projetar, construir e otimizar pipelines de dados robustos. Atualm
 <div align="center">
   <table border="0">
     <tr>
-      <td valign="top">
+      <td valign="top" width="50%">
         <!-- Status Geral -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Vmalvees&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Vmalvees&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" />
       </td>
-      <td valign="top">
+      <td valign="top" width="50%">
         <!-- Linguagens mais utilizadas -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vmalvees&layout=compact&theme=tokyonight&hide_border=true" height="195px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vmalvees&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
       </td>
     </tr>
   </table>
-  
-  <br/>
-  
-  <!-- Jogo da Cobra (Snake) que come seus Commits (Atualiza uma vez por dia!) -->
-  <h3>🐍 Minha contribuição em forma de jogo:</h3>
-  <img src="https://raw.githubusercontent.com/Vmalvees/Vmalvees/output/github-contribution-grid-snake.svg" alt="github contribution grid snake" />
 </div>
 
+<br/>
+<hr>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-  <p><sub>Perfil atualizado dinamicamente. Feito com ☕ e 🐍.</sub></p>
+  <p><sub>Perfil construído com foco em Engenharia de Dados. Feito com ☕ e 🐍.</sub></p>
 </div>
