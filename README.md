@@ -27,55 +27,63 @@ Sou focado em projetar, construir e otimizar pipelines de dados robustos. Atualm
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="left" width="33%" valign="top">
       <h3>🧠 Programação & Query</h3>
-      <img src="https://skillicons.dev/icons?i=python,postgres,sqlite,bash" /><br/>
-      <sub>Python, PostgreSQL, SQLite, Bash</sub>
+      • <b>Python</b> (Pandas, Numpy)<br/>
+      • <b>SQL / PostgreSQL</b><br/>
+      • <b>SQLite</b><br/>
+      • <b>Bash / Shell Script</b>
     </td>
-    <td align="center" width="33%">
+    <td align="left" width="33%" valign="top">
       <h3>⚙️ Engenharia de Dados</h3>
-      <img src="https://skillicons.dev/icons?i=pandas,airflow,docker,git" /><br/>
-      <sub>Pandas, Airflow, Docker, Git</sub>
+      • <b>ETL / ELT Pipelines</b><br/>
+      • <b>Apache Airflow</b> (Orquestração)<br/>
+      • <b>Docker</b> (Containers)<br/>
+      • <b>Git / GitHub</b>
     </td>
-    <td align="center" width="33%">
-      <h3>☁️ Cloud Computing</h3>
-      <img src="https://skillicons.dev/icons?i=aws" /><br/>
-      <sub>Amazon S3, Amazon RDS</sub>
+    <td align="left" width="33%" valign="top">
+      <h3>☁️ Cloud & DWH</h3>
+      • <b>Amazon S3</b> (Data Lake)<br/>
+      • <b>Amazon RDS</b> (Postgres)<br/>
+      • <b>Star Schema</b> (Modelagem)<br/>
+      • <b>SCD Tipo 2</b> (Histórico)
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <!-- Ícones das tecnologias oficiais e estáveis -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
+
+---
+
+## 🚀 Projeto de Destaque
+
+<table width="100%">
+  <tr>
+    <td>
+      <h3>⚡ ShopFlow - Plataforma Analítica de E-Commerce</h3>
+      <p>Pipeline de dados robusto ponta a ponta simulando cenário de produção real:</p>
+      <ul>
+        <li><b>Medallion Architecture</b>: Ingestão na camada Bronze, Higienização na Silver (Parquet) e Modelagem dimensional na Gold.</li>
+        <li><b>Qualidade de Dados</b>: Validação automática de integridade e regras de negócio.</li>
+        <li><b>Orquestração</b>: Agendamento diário e monitoramento de alertas com Apache Airflow.</li>
+      </ul>
+      <a href="https://github.com/Vmalvees/Projeto-eng-dados-Shopflow"><b>Ver código no repositório →</b></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Projeto de Destaque
-
 <div align="center">
-  <a href="https://github.com/Vmalvees/Projeto-eng-dados-Shopflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vmalvees&repo=Projeto-eng-dados-Shopflow&theme=tokyonight" alt="Shopflow Project" />
-  </a>
-</div>
-
----
-
-## 📊 Estatísticas e Contribuições
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td valign="top" width="50%">
-        <!-- Status Geral -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Vmalvees&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" />
-      </td>
-      <td valign="top" width="50%">
-        <!-- Linguagens mais utilizadas -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vmalvees&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-<hr>
-<div align="center">
-  <p><sub>Perfil construído com foco em Engenharia de Dados. Feito com ☕ e 🐍.</sub></p>
+  <p><sub>Perfil atualizado e otimizado para Engenharia de Dados. Feito com ☕ e 🐍.</sub></p>
 </div>
